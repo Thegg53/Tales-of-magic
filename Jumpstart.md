@@ -8,6 +8,7 @@ One can sleeve and store the packs for later use, they dont need to be single us
 
 [There are Deck Boxes meant for this](https://www.dragonshield.com/webshop/deck-boxes/404-cube-shell-forest-green.html?_gl=1*i2xlmp*_up*MQ..&gclid=EAIaIQobChMI0Ij_gKi4gAMV2RB7Ch2GxwjREAAYASABEgI8rvD_BwE), I plan on buying a few, so that i can later reuse these packs.
 
+![Cube Shell by Dragon Shield](images/jumpstart/boxes.png)
 ## WARNING
 
 ### Jumpstart sets: Jumpstart and Jumpstart 2022
