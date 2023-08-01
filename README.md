@@ -5,6 +5,7 @@ Welcome, welcome, more here later on.
 This will be your landing page with mostly links :)
 - [Magic Formats](./Formats.md)
 - [Accessories: Sleeves and boxes](./sleeves%20and%20boxes.md)
+- [Booster Types](./Boosters.md)
 
 ## Journal Entry
 - [2023-07-30 Spoon](./journal/20230730.md)
