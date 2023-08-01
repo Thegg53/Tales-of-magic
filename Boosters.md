@@ -13,7 +13,7 @@ All cards (35 ish cards per booster) from the same color/theme, meant to help de
 
 1 Theme booster + 25 lands = ready to Play.
 
-You knew the color / color pair of the booster before opening it.
+You knew the color / color pair of the booster before opening it. That means that if someone knows the colour(s) they enjoy, there is a guarantee to get cards of said colour
 
 This could prove cheaper to Jumpstart AFTER we have a pile of basic lands, but not necessarily a good/fun/balanced.
 
