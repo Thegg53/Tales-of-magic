@@ -27,6 +27,7 @@ At most, buy 3 Jumpstart boosters per player from each of the Non-Jumpstart sets
 
 Examples are:
 - Lord of the Rings
+Gui has 5 of these, 1 of each color.  
 10 packs, 2 of each color. 6-8/12 shared cards on the 2 of the same color.
 - March of the Machines  
 10 packs, 2 of each color. 7-8/12 shared cards on the 2 of the same color.
@@ -36,5 +37,6 @@ Examples are:
 - [The brothers war ](https://mtg.fandom.com/wiki/The_Brothers%27_War/Jumpstart)  
 10 packs, 2 of each color. 7-8/12 shared cards on the 2 of the same color.  
 - [Dominaria United](https://mtg.fandom.com/wiki/Dominaria_United/Jumpstart)  
+Gui has 5 of these, 1 of each color.  
 10 packs, 2 of each color. 7/12 shared cards on the 2 of the same color.
 ![Dominaria](images/jumpstart/dominaria.png)

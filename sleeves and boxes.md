@@ -6,15 +6,23 @@ If we ever want to be consistent, dragon shield is likely the best. Danish made,
 
 
 ## Constructed -> Prebuilt decks
-The matte (not the dual matte), tend to be the best. Black is a safe choice, clear is also good, but might show the card backs, and there are inconsistencies between magic sets -> https://www.dragonshield.com/webshop/solid-color-sleeves/70-dragon-shield-matte-black.html
+The matte (not the dual matte), tend to be the best. Black (not Jet, those have a metallic look) is a safe choice, clear is also ok, but might show the card backs, and there are inconsistencies between magic sets -> https://www.dragonshield.com/webshop/solid-color-sleeves/70-dragon-shield-matte-black.html
+
+![Matte Black](images/sleeves/dragon-shield-matte-black.png)
 
 
-### Jumpstart
-Gamegenic Just Sleeves (box of 250). They seem to be [discontinued, this is their current offerings](https://www.gamegenic.com/product-category/card-sleeves/standard-sleeves/value-pack-200/), but since they are clear, should not be an issue to mix with other brands. 
 
-I imagine that since the jumpstart will not be used that often, since we mix, getting a total of 500 of these clear is perfect for jumpstart. 3 players is 120 sleeves per session, so, 500 is at least 4 gaming sessions, more if we reuse packs (hence the boxes, see paragraph below)
+<details>
+  <summary>Jumpstart Sleeves (Obsolete)</summary>
+  
+    ### Jumpstart
+    Gamegenic Just Sleeves (box of 250). They seem to be [discontinued, this is their current offerings](https://www.gamegenic.com/product-category/card-sleeves/standard-sleeves/value-pack-200/), but since they are clear, should not be an issue to mix with other brands. 
 
-https://www.kelz0r.dk/magic/gamegenic-just-sleeves-standard-card-game-size-value-pack-clear-transparentgennemsigtig-250-kortlommer-p-268914.html?utm_source=daisycon&utm_medium=affiliate&utm_campaign=daisycon_adstrong
+    I imagine that since the jumpstart will not be used that often, since we mix, getting a total of 500 of these clear is perfect for jumpstart. 3 players is 120 sleeves per session, so, 500 is at least 4 gaming sessions, more if we reuse packs (hence the boxes, see paragraph below)
+
+    https://www.kelz0r.dk/magic/gamegenic-just-sleeves-standard-card-game-size-value-pack-clear-transparentgennemsigtig-250-kortlommer-p-268914.html?utm_source=daisycon&utm_medium=affiliate&utm_campaign=daisycon_adstrong
+
+</details>
 
 
 ## Jumpstart Deck Box
