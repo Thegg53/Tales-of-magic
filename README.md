@@ -8,9 +8,9 @@ This will be your landing page with mostly links :)
 - [Booster Types](./Boosters.md)
 
 ## Journal Entry
-- [2023-07-30 Spoon](./journal/20230730.md)
+- [2023-08-20 Fresh Blood](./journal/20230820.md)
 
 ## Next time
-- Date 20th August 13:30 ish -> 19:00 ish
-- [Jumpstart](./Jumpstart.md): OG or 2022
+- Date TBD
+- [Jumpstart](./Jumpstart.md) a mix of OG, 2022, DominariaUnited and Lord of the Rings
 - Maybe we try Pauper decks (see Formats 2.4.3)
