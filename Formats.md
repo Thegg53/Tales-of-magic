@@ -14,6 +14,8 @@
         * 2.4.3. Pauper (common only)  
 
 3. Commander (100 cards, one special can be the commander)  
+    [Read more in the dedicated page](./edh.md)
+    
     3.1. Normal (EDH)  
     3.2. Pauper Commander (all commons, one uncommon can be the commander. I say the commander must be a legendary creature, other groups accept any legendary uncommon as the commander, we would need to agree). 
 
