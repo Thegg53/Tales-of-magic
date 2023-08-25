@@ -8,8 +8,8 @@ This will be your landing page with mostly links :)
 - [Booster Types](./Boosters.md)
 - [Commander](./edh.md)
 
-## Journal Entry
-- [2023-08-20 Fresh Blood](./journal/20230820.md)
+## Latest Update
+- [Sleeves](./sleeves%20and%20boxes.md)
 
 ## Next time
 - Date TBD 10/16/17 of September??
