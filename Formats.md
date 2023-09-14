@@ -11,7 +11,10 @@
     2.4. Eternal (all time, 30 years ish)  
         * 2.4.1. Legacy (ban list)  
         * 2.4.2. Vintage (no ban list, almost)  
-        * 2.4.3. Pauper (common only)  
+        * 2.4.3. Pauper (commons only)  
+            If a card has ever been printed (either physically or on MTGO) as common, it is pauper legal.
+
+Many websites can check for Pauper Legality
 
 3. Commander (100 cards, one special can be the commander)  
     [Read more in the dedicated page](./edh.md)

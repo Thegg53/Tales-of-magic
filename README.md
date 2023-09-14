@@ -12,6 +12,4 @@ This will be your landing page with mostly links :)
 - [Sleeves](./sleeves%20and%20boxes.md)
 
 ## Next time
-- Date TBD 10/16/17 of September??
-- [Jumpstart](./Jumpstart.md) a mix of OG, 2022, DominariaUnited and Lord of the Rings
-- Maybe we try Pauper decks (see Formats 2.4.3) or Commander (see new page )
+Pauper with [proxies](./proxies.md). Print a deck or two to test them :)
