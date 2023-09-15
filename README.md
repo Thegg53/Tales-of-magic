@@ -9,7 +9,8 @@ This will be your landing page with mostly links :)
 - [Commander](./edh.md)
 
 ## Latest Update
-- [Sleeves](./sleeves%20and%20boxes.md)
+- proxies, see page
+- singles
 
 ## Next time
 Pauper with [proxies](./proxies.md). Print a deck or two to test them :)
