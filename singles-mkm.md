@@ -3,6 +3,10 @@ When you buy boosters, it is highly likely that you will have no use for most of
 
 Pre-built decks (nowadays, only commander decks and starter decks are available) are also ok, especially if we play pre-built decks with no changes at all.
 
+# Something to try
+I never tried this, but I imagine that a post in a Facebook Group saying that you want to buy a complete Pauper deck (and then specify which deck, if you care), could be a simple idea. I can see a post like: "I am looking to buy a Pauper Elves/Burn/Affinity/whatever deck. Anyone wants to sell?".  
+If this works it's an instant way to get a full deck, without so much hassle
+
 # Where to buy singles?
 You can try your local game store, I dont know what/how much is available in KBH/surroundings.
 
