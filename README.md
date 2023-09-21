@@ -15,4 +15,4 @@ This will be your landing page with mostly links :)
 - singles
 
 ## Next time
-[Pauper](./formats/pauper.md)  with [proxies](./proxies.md). Print a deck or two to test them :)
+October 15th - [Pauper](./formats/pauper.md)  with [proxies](./proxies.md). Print a deck or two to test them :)
