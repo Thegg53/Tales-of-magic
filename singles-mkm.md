@@ -34,5 +34,4 @@ Firstly there is a good amount of danish sellers on Cardmarket. They are worth l
 
 I have good experience with [thecardcollective.dk](https://thecardcollective.dk/collections/mtg-singles-instock). They send the cards immidiately and only display cards in stock, their options are more limited than Cardmarket though, and prices a little higher.
 
-I have less good experience with [https://www.kelz0r.dk/](https://www.kelz0r.dk/magic/magic-enkeltkort-singles-c-23_24.html). Their choice of cards listed are much bigger, but they often don't have what they list on the website in stock, and will either tell you they cannot deliver some of them anyways or you have to wait a long time for the cards (think weeks). I think they just order them from cardmarket and resell.
-
+I have less good experience with [https://www.kelz0r.dk/](https://www.kelz0r.dk/magic/magic-enkeltkort-singles-c-23_24.html). Their have a greater choice of cards listed on the site, but they often don't have what they list on the website in stock, and will either tell you they cannot deliver some of them anyways or you have to wait a long time for the cards (think weeks).
