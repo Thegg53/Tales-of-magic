@@ -30,8 +30,11 @@ Follow the steps below:
 1. An example of part of my card ![Click Buying](images/singles/g.png)
 
 # Danish online shops
-Firstly there is a good amount of danish sellers on Cardmarket. They are worth looking for, if you want the cards fast, as they typically will arrive faster.
 
-I have good experience with [thecardcollective.dk](https://thecardcollective.dk/collections/mtg-singles-instock). They send the cards immidiately and only display cards in stock, their options are more limited than Cardmarket though, and prices a little higher.
+NOTE: These can also be found in Cardmarket. Danish sellers will typically arrive faster. Good when you don't want to wait.
 
-I have less good experience with [https://www.kelz0r.dk/](https://www.kelz0r.dk/magic/magic-enkeltkort-singles-c-23_24.html). Their have a greater choice of cards listed on the site, but they often don't have what they list on the website in stock, and will either tell you they cannot deliver some of them anyways or you have to wait a long time for the cards (think weeks).
+Good experiences:
+- [thecardcollective.dk](https://thecardcollective.dk/collections/mtg-singles-instock) - They send the cards immidiately and only display cards in stock.
+
+Less good experiences:
+- [kelz0r.dk](https://www.kelz0r.dk/magic/magic-enkeltkort-singles-c-23_24.html) - They will often not have cards displayed on their website, you will likely not get all cards ordered and in my experience will have to wait long time for some cards (think weeks)
