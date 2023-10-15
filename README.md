@@ -10,9 +10,8 @@ This will be your landing page with mostly links :)
 - [Pauper](./formats/pauper.md)
 
 ## Latest Update
-- pauper
-- proxies, see page
-- singles
+- journal entry shaping up 
 
 ## Next time
-October 15th - [Pauper](./formats/pauper.md)  with [proxies](./proxies.md). Print a deck or two to test them :)
+November 11-12 or 18-19.  
+Looking for a new host for this time :)
