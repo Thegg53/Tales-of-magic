@@ -10,7 +10,7 @@ This will be your landing page with mostly links :)
 - [Pauper](./formats/pauper.md)
 
 ## Latest Update
-- journal entry shaping up 
+- journal [entry shaping up](./journal/20231015.md) 
 
 ## Next time
 November 11-12 or 18-19.  
