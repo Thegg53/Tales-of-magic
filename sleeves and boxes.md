@@ -3,7 +3,7 @@ Useless crap, very cheap, terrible.
 
 
 ## Constructed -> Prebuilt decks (60 to 100 cards)
-Up to you, some recommendations (I have yet to try the Katana's. I tend to stick to DragonShield if in doubt). Matte's in general make shuffling better/easier. Buy something you like, funky art, crazy colors, whatever floats your boat:
+Up to you, some recommendations (I have yet to try the Katana's. Someone get them, they seem to be the Best noe). Matte's in general make shuffling better/easier. Buy something you like, funky art, crazy colors, whatever floats your boat:
 - Dragon Shield Matte
 - Ultimate Guard Katana
 - KMC HyperMatte
