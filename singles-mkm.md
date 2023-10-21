@@ -28,3 +28,13 @@ Follow the steps below:
 1. Select Europe. You dont want SKAT/Customs and the postnord 150dkk fee ![EU](images/singles/e.png)  
 1. Up to you now! Low price, or, small ammount of shipments ![Click Buying](images/singles/f.png)  
 1. An example of part of my card ![Click Buying](images/singles/g.png)
+
+# Danish online shops
+
+NOTE: These can also be found in Cardmarket. Danish sellers will typically arrive faster. Good when you don't want to wait.
+
+Good experiences:
+- [thecardcollective.dk](https://thecardcollective.dk/collections/mtg-singles-instock) - They send the cards immidiately and only display cards in stock.
+
+Less good experiences:
+- [kelz0r.dk](https://www.kelz0r.dk/magic/magic-enkeltkort-singles-c-23_24.html) - They will often not have cards displayed on their website, you will likely not get all cards ordered and in my experience will have to wait long time for some cards (think weeks)
