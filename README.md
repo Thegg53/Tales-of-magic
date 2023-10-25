@@ -13,5 +13,6 @@ This will be your landing page with mostly links :)
 - journal [entry shaping up](./journal/20231015.md) 
 
 ## Next time
-November 11-12 or 18-19.  
-Looking for a new host for this time :)
+November 18-19 or 25-26 (see the poll).  
+Host decided
+Pauper (maybe limited)
