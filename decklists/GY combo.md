@@ -44,11 +44,13 @@ Overall, not even sure that this is any better than going the 1-land (to 3 or 4)
     Insolent Neonate R
     Hapless researcher U
     careful study U
+    deep analysis U
 
-    CHEAP CREATURES
-    Cauldron Familiar
-    Bartered Cow
-    basking rootwalla  G
+    CHEAP/Free CREATURES
+    Cauldron Familiar B
+    Bartered Cow  W (but never should be cast)
+    putrid Imp B
+    basking rootwalla  G (mostly free)
     kitchen imp B
 
     Liliana's elite B
