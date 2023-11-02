@@ -42,3 +42,15 @@ vault skirge
 1 haunted mire
 1 forest
 7 swamp
+
+1 sanitarium skeleton
+1 gorilla shaman
+1 spore frog
+1 scattershot archer
+1 ancient grudge
+1 crypt rats
+3 masked vandal
+1 fleshbag marauder
+2 faerie macabre
+2 gnaw to the bone
+1 battlefield scrounger
