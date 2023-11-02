@@ -1,11 +1,18 @@
 4 tortured existence
-1 urborg repossession G
+2 urborg repossession G
 4 exhume
-2 dread return
+1 dread return
 
 0-1 spore frog G
 ???? 1 or 2 drop ????
 Ichor drinker
+blood celebrant
+carrion feeder
+viscera seer
+ecstatic awakener
+shambling ghast
+unwilling ingredient
+sanitarium skeleton
 
 abyssal gatekeeper
 cabal initiate (madness enabler)
