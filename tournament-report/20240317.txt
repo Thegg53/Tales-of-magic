@@ -18,7 +18,9 @@ Game 1 death by double glitters + 2 myr enforcer
 -2/3 cows
 -1/2 cats (all of these cards felt super slow, but I dont know what the plan was)
 
-I keep a mountain, gorilla shaman, looting, arms of hadar, kitchen imp, other stuff hang. Mountain shaman, opponent has a bridge. I looting into the imp (topdecked the swamp) and start the beats. Opponent has thraben into bridge 2. I slowly attack, get some chumps here and there, and this time, not forgetting the 3 life on gingerbrute, time my clock correctly.
+I keep a mountain, gorilla shaman, looting, arms of hadar, kitchen imp, other stuff hang. Mountain shaman, opponent has a bridge. I looting into the imp (topdecked the swamp) 
+and start the beats. Opponent has thraben into bridge 2. I slowly attack, get some chumps here and there, and this time, not forgetting the 3 life on gingerbrute, time my 
+clock correctly.
 
 Companion app was broken, so we were not aware of round clock, and did not have time for round 3. Believe me, games 1 and 2 were very very tight 
 Round 3 [2-0-1] (2-1) Mono U terror
@@ -28,31 +30,46 @@ Game 1 it was too much too fast. My opponent did not see a cow Or a TortEx
 +1 Debt to the Kami
 +1 revolutionist
 
-Knowing he was not aware of Cow loops, I figured he would not be so worried with Annul (previous tournament he brought in Annuls vs Dimir Faerie Tortex). I should have sided out mukotai, only realize that mid-game 3
+Knowing he was not aware of Cow loops, I figured he would not be so worried with Annul (previous tournament he brought in Annuls vs Dimir Faerie Tortex). I should have sided out
+mukotai, only realize that mid-game 3
 
 - 1 or 2 Voldaren Epicure
 - 1 or 2 Deadly Dispute/demand answers
 - 1 blood fountain
 - 1 KCS
 - 1 carrion feeder
-Game 2 opponent let the tortex resolves (think I paid for a spell pierce?). I assembled the engine fully. I end up at 34 life, 6 foods on the table, and my opponent realizing that the cat attacking for 1 is the kill condition. Block it or not, he was taking 1. Sanitarium skeleton also helped A LOT. I cast very few spells, and made my opponent hold up mana open for whatever the threat might be, except there was no threat. The squeeze was on and he didnt know it yet. Lowest life total for me was 11, when he had a delver, but in same turn I went up to 17, so...
-Game 3 I bring in 1 or 2 gorilla shaman for something, since I know graveryard hate is coming. I managed to play well enough around possible countermagic, and opponents double relic, leaving mana open to activate in response. He eventually needs to convert relics into real cards, and then, I am not afraid of Terror/Serpent + slow cat shenanigans are unlocked. His final life totals where 4-3-2-1, slow and steady :)
+Game 2 opponent let the tortex resolves (think I paid for a spell pierce?). I assembled the engine fully. I end up at 34 life, 6 foods on the table, and my opponent realizing
+that the cat attacking for 1 is the kill condition. Block it or not, he was taking 1. Sanitarium skeleton also helped A LOT. I cast very few spells, and made my opponent hold 
+up mana open for whatever the threat might be, except there was no threat. The squeeze was on and he didnt know it yet. Lowest life total for me was 11, when he had a delver, 
+but in same turn I went up to 17, so...
+Game 3 I bring in 1 or 2 gorilla shaman for something, since I know graveryard hate is coming. I managed to play well enough around possible countermagic, and opponents double 
+relic, leaving mana open to activate in response. He eventually needs to convert relics into real cards, and then, I am not afraid of Terror/Serpent + slow cat shenanigans are 
+unlocked. His final life totals where 4-3-2-1, slow and steady :)
 
 Round 4 [2-1-1] (1-2) Mono Green Infect
-I  stabilize game 1 after taking 8 poison in one turn, by using Krak clan shaman to kill my land, a blood token an epicure and two of his creatures, due to a regeneration or something. The Toxin Analysis was also handy here to force a trade on a pumped creature
+I  stabilize game 1 after taking 8 poison in one turn, by using Krak clan shaman to kill my land, a blood token an epicure and two of his creatures, due to a regeneration or 
+something. The Toxin Analysis was also handy here to force a trade on a pumped creature
 +2 cast into fire
 +1 debt to the kami (i saw a rancor)
 +1 arms of hadar
 -3 cow
 -1 cat
-I lose game 2 when I try to kill his 2 creatures and he has 1 mana open (one was a mamba that regenerates). He has both Embiggen and Mutagenic Growth. A rancor means chumping doesnt do it.
-Game 3 was another very quick loss. Got to exile a Ichorclaw Myr with cast into the fire, but the snake had enough pump that all my efforts were in vain. Awful matchup, since life doesnt matter. My faint hope was to loop Kami of False Hope.
+I lose game 2 when I try to kill his 2 creatures and he has 1 mana open (one was a mamba that regenerates). He has both Embiggen and Mutagenic Growth. A rancor
+means chumping doesnt do it.
+Game 3 was another very quick loss. Got to exile a Ichorclaw Myr with cast into the fire, but the snake had enough pump that all my efforts were in vain. Awful matchup, 
+since life doesnt matter. My faint hope was to loop Kami of False Hope.
 
 Round 5 [3-1-1] (2-1) Jeskai Affinity
 Game 1, Glitters is a hell of a drug, two of them are too much.
 See sideboard plan for round 2.
-I mulligan to 6, and have a Great Furnace, Cast into the fire, mountain, looting, tortex, some other black card. I play the monkey, and he has Great Furnace into galv blast.... my looting finds me black mana, and soon-ish I am able to get a gorilla shaman. In the meanwhile, I am down to 3 life thanks to a gingerbrute, frogmite, thraben, ornithopter, myr enforcer board. The snuff out on gingerbrute was clutch here. Terminate on the Enforcer, arms of hadar to reset the board. Get back Gorilla shaman and that was enough. I end the game at 12 thanks to mukotai. For some turns my opponent had 2 permanents (a glittered thraben), thanks to Arms of Hadar and Gorilla. My having 7 lands in a row (i flashbacked 2 faithless lootings) made it way more scary that it should have been. Eventually a dredge of the single Stinkweed imp finds the Sanitarium skeleton
+I mulligan to 6, and have a Great Furnace, Cast into the fire, mountain, looting, tortex, some other black card. I play the monkey, and he has Great Furnace into 
+galv blast.... my looting finds me black mana, and soon-ish I am able to get a gorilla shaman. In the meanwhile, I am down to 3 life thanks to a gingerbrute, frogmite,
+thraben, ornithopter, myr enforcer board. The snuff out on gingerbrute was clutch here. Terminate on the Enforcer, arms of hadar to reset the board. Get back Gorilla shaman 
+and that was enough. I end the game at 12 thanks to mukotai. For some turns my opponent had 2 permanents (a glittered thraben), thanks to Arms of Hadar and Gorilla. Me having 
+7 lands in a row (i flashbacked 2 faithless lootings) made it way more scary that it should have been. Eventually a dredge of the single Stinkweed imp finds the 
+Sanitarium skeleton
 
-Game 3: My life total goes 20->15->1 when my opponent makes the mistake of double glittering a single ornithopter (when he had 2 of them). I cast it Into the Fire, and Gorilla shaman again does a number on his board. I get full control, and this time, I get him to 0 permanents
+Game 3: My life total goes 20->15->1 when my opponent makes the mistake of double glittering a single ornithopter (when he had 2 of them). I cast it Into the Fire, and 
+Gorilla shaman again does a number on his board. I get full control, and this time, I get him to 0 permanents
 
 Please DO NOT play this list. The white mana and Kamis are a mistake. The deck consistently felt better post board than main deck, especially when trimming cats, cows and tortex
