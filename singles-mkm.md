@@ -53,15 +53,15 @@ https://help.cardmarket.com/en/ShippingCosts
 
 | Country	| 4 cards	| 5-17 cards	| 18-40 	|
 |---	|---	|---	|---	|
-| Bulgaria	| 1.69	| xx	| 2,65	|
+| Bulgaria	| 2.47	| xx	| 3.47	|
 | Cyprus (tax??)	| 0.94 	| 1.3	| 2	|
-| Czech	| x	| 2,05	| 2.96	|
-| DK 	| x 	| x	| 3.83	|
-| Germany	| 1.40	| x	| x	|
+| Czech	| x	| 2,12	| 3.11	|
+| DK 	| x 	| x	| 4.52	|
+| Germany	| 1.5	| x	| x	|
 | Lithuania	| 2	| 2.15	| 2.6	|
 | Luxembourg	| x	| 1.7	| x	|
 | Portugal	| x	| x	| 2.8	|
-| Slovakia	| x	| 1.80	| 2.6	|
-| Spain	| x	| 2.30	| 3.30	|
+| Slovakia	| x	| 2.7	| 5.1	|
+| Spain	| x	| 2.45	| 3.45	|
 
 
