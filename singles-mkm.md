@@ -49,19 +49,36 @@ https://help.cardmarket.com/en/ShippingCosts
 | 50g	|  17	|
 | 100g	|  40	|
 
-### Cheapest Places (shipping to DK, prices in Euro)
+### Cheapest Places (shipping to DK, prices in Euro - Tracked No)
 
-| Country	| 4 cards	| 5-17 cards	| 18-40 	|
-|---	|---	|---	|---	|
-| Bulgaria	| 2.47	| xx	| 3.47	|
-| Cyprus (tax??)	| 0.94 	| 1.3	| 2	|
-| Czech	| x	| 2,12	| 3.11	|
-| DK 	| x 	| x	| 4.52	|
-| Germany	| 1.5	| x	| x	|
-| Lithuania	| 2	| 2.15	| 2.6	|
-| Luxembourg	| x	| 1.7	| x	|
-| Portugal	| x	| x	| 2.8	|
-| Slovakia	| x	| 2.7	| 5.1	|
-| Spain	| x	| 2.45	| 3.45	|
+| Country | 20g | 50g | 100g |
+|---------|-----|-----|------|
+| Austria | 2,70 | 6,85 | - |
+| Belgium | - | 3,37 | - |
+| Bulgaria | 2,47 | - | 3,47 |
+| Croatia | - | 2,50 | - |
+| Cyprus | 0,94 | - | - |
+| Czech Republic | - | 2,35 | - |
+| Denmark | 4,86 | - | 5,07 |
+| Estonia | 4,20 | - | - |
+| Finland | 3,35 | 4,25 | 6,60 |
+| France | 2,55 | 8,15 | 5,35 |
+| Germany | 1,55 | - | - |
+| Greece | 3,30 | 3,80 | 4,50 |
+| Hungary | - | 4,47 | - |
+| Ireland | - | - | 4,00 |
+| Italy | - | 4,05 | 5,15 |
+| Latvia | 3,30 | - | 4,35 |
+| Lithuania | 2,40 | 2,65 | 3,25 |
+| Luxembourg | - | 2,00 | - |
+| Malta | - | 2,51 | - |
+| Netherlands | 2,41 | - | - |
+| Poland | - | 2,75 | 3,81 |
+| Portugal | 5,50 | 2,85 | - |
+| Romania | - | - | 3,86 |
+| Slovakia | - | 3,50 | - |
+| Slovenia | 3,75 | - | - |
+| Spain | - | 2,60 | 3,60 |
+| Sweden | - | 4,48 | 17,36 |
 
 

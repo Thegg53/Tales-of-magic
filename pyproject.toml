@@ -1,0 +1,12 @@
+[project]
+name = "tales-of-magic-scraper"
+version = "0.1.0"
+description = "Scrape Cardmarket shipping costs for EU countries to Denmark."
+authors = ["Your Name <your@email.com>"]
+requires-python = ">=3.8"
+dependencies = [
+    "selenium"
+]
+
+[tool.uv]
+# uv-specific settings can go here if needed
